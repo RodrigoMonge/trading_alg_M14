@@ -1,1 +1,0 @@
-# trading_alg_M14
